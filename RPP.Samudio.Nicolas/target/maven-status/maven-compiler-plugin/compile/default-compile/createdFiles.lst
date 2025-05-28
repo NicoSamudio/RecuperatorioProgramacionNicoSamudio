@@ -1,0 +1,11 @@
+Entidades\main.class
+Entidades\Director.class
+Entidades\VideoClub.class
+Entidades\TipoPelicula.class
+Entidades\PeliculaDrama.class
+Entidades\GeneroDrama.class
+Entidades\PeliculaDrama$1.class
+Entidades\GeneroAccion.class
+Entidades\IAlquilable.class
+Entidades\PeliculaAccion.class
+Entidades\Pelicula.class
